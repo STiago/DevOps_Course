@@ -27,20 +27,19 @@ In linux line commands you can do:
 
 Document sent to Elastic Search:
 
-![ES](doc_elastic.png)
+![ES](https://github.com/STiago/DevOps_Course/blob/master/ElasticSearch_Kibana_London_Weather/images/doc_elastic.png)
 
 Now we create a new index in Kibana for the document that we sent to Elastic Search:
 
-![ES](c_index.png)
+![ES](https://github.com/STiago/DevOps_Course/blob/master/ElasticSearch_Kibana_London_Weather/images/c_index.png)
 
-![ES](n_index.png)
-
+![ES](https://github.com/STiago/DevOps_Course/blob/master/ElasticSearch_Kibana_London_Weather/images/n_index.png)
 
 The next step is create each visualization to add them to a new dashboard.
 
-![ES](visualize.png)
+![ES](https://github.com/STiago/DevOps_Course/blob/master/ElasticSearch_Kibana_London_Weather/images/visualize.png)
 
-![ES](weather.png)
+![ES](https://github.com/STiago/DevOps_Course/blob/master/ElasticSearch_Kibana_London_Weather/images/weather.png)
 
-![ES](dashboard.png)
+![ES](https://github.com/STiago/DevOps_Course/blob/master/ElasticSearch_Kibana_London_Weather/images/dashboard.png)
 
